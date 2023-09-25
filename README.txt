@@ -6,7 +6,7 @@ Files Included
 This dataset is used for various machine learning tasks within the module.
 
 2. my_1CWK50 - Live Script Coursework Task
-This script likely represents a specific coursework task or assignment for the module.
+This script represents the coursework task or assignment for the module.
 
 3. my_ClassificationKNN
 This file contains my own implementation of k-Nearest Neighbors (k-NN) classification. It includes properties to store training data and hyperparameters, as well as methods for constructing and making predictions using the k-NN algorithm.
